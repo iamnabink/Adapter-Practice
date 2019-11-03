@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.weimob.library.groups:retrofit2:2.3.2-weimob@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weimob.library.groups/retrofit2/2.3.2-weimob/e53a5216be33bb4adcc3b3435360efc76d41de59/retrofit2-2.3.2-weimob.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weimob.library.groups/retrofit2/2.3.2-weimob/ec45de103d3721c4e0b1645da24e125fad94e78d/retrofit2-2.3.2-weimob-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
